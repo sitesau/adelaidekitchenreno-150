@@ -1,0 +1,17 @@
+{
+  "wheel_id": 110,
+  "slug": "adelaidekitchenreno-150",
+  "project": "small-kitchen-renovations-adelaide-a-150",
+  "parent_t1_ref": "adelaidekitchenreno-002",
+  "node_role": "buffer",
+  "money_target": "adelaidekitchenreno.com.au",
+  "primary_kw": "small kitchen renovations adelaide",
+  "intended_url": "https://aumedia.neocities.org/small-kitchen-renovations-adelaide-a-150/index.html",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/small-kitchen-renovations-adelaide/",
+      "anchor": "small kitchen renovations adelaide",
+      "rel": "follow"
+    }
+  ]
+}
